@@ -1,5 +1,5 @@
 
-![Logo](https://drive.google.com/file/d/1n89W2D-g_XRsJ2uOU6D6oCfRinBJyJkn/view?usp=sharing)
+![Logo](https://github.com/code4anuj/nyx/blob/54346e59f8ec1c200425ffae9ae81afc90395399/NYX.png)
 
 # NYX - Self Driving Delivery Robot
 
