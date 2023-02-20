@@ -38,5 +38,5 @@ We are working on the working on the Custom Road Segmentation Model which could 
 - [Anuj Patel](https://www.github.com/code4anuj)
 - [Kunal Kumar Sahoo](https://www.github.com/)
 - [Tithi Dangarwala](https://www.github.com/tithidangarwala)
-- [Tanish Patel](https://www.github.com/tanishpatel)
+- [Tanish Patel](https://www.github.com/tanishpatel0106)
 - [Dhairya Shah](https://www.github.com/DhairyaShah5)
